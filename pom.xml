@@ -11,7 +11,7 @@
 	<groupId>com.appsdeveloper.photoapp.api.gateway</groupId>
 	<artifactId>PhotoAppApiZuulGateway</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>PhotoAppApiZullGateway</name>
+	<name>PhotoAppApiZuulGateway</name>
 	<description>Zuul API Gateway(Ribbon Load Balancer, SpringSecurity)</description>
 
 	<properties>

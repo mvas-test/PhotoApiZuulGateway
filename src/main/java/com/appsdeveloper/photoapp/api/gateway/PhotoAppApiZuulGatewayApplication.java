@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PhotoAppApiZullGatewayApplication {
+public class PhotoAppApiZuulGatewayApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PhotoAppApiZullGatewayApplication.class, args);
+		SpringApplication.run(PhotoAppApiZuulGatewayApplication.class, args);
 	}
 
 }
